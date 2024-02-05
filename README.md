@@ -20,12 +20,26 @@ By the end of the course, it is expected for me to be able to design and impleme
 
 ### [Results](https://github.com/Rishikesh-Jadhav/Robot-Learning/blob/main/Assignment1/RL_Assignment1.ipynb) : Contains the notebook wih the outputs of the given task.
 
-- **Implementation and Learnings from Project 1**:
-  
+- **Implementation and Learnings from Assignment 1**:
 
+1. **Dataset**: Utilized a dataset for international airline passengers prediction problem, focusing on forecasting the number of passengers in units of 1,000 based on the year and month.
+
+2. **Data Preprocessing**:
+   - Implemented a dataloader to preprocess the dataset into PyTorch tensors, enabling efficient handling and manipulation of the temporal data.
+
+3. **Model Creation**:
+   - Developed two models using PyTorch: one based on Long-Short Term Memory (LSTM) architecture and another based on Recurrent Neural Network (RNN) architecture. These models were designed to learn temporal patterns in the data and make predictions based on sequential information.
+
+4. **Evaluation and Comparison**:
+   - Evaluated the performance of both LSTM and RNN models using metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE). Justified the choice of metrics based on their ability to assess accuracy, precision, and generalization performance of the models.
+
+5. **Bonus**:
+   - Provided suggestions for improving the results, including hyperparameter tuning, feature engineering, regularization, ensemble methods, and exploring additional applications in robotics beyond the scope of the assignment.
+
+This assignment provided practical experience in applying deep learning techniques to time-series forecasting tasks, with a focus on LSTM and RNN architectures. Additionally, it explored strategies for improving model performance and discussed real-world applications of time-series prediction in robotics.
 
      
 ## Additional Resources
-- [Course related resources](https://www.cs.umd.edu/class/fall2023/cmsc828i/)
+- [Course related resources](https://mage.umd.edu/enpm690)
 
 
