@@ -16,9 +16,9 @@ By the end of the course, it is expected for me to be able to design and impleme
 
 ## 📄 Project List
 
-### [Assignment 1](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/tree/main/Project1): Superpixels and Image Segmentation
+### [Assignment 1](https://github.com/Rishikesh-Jadhav/Robot-Learning/blob/main/Assignment1): Time-Series Prediction with LSTMs and RNNs
 
-### [Results](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/blob/main/Project1/rjadhav1(119256534)cmsc828I_fall2023_HW1.ipynb) : Contains the notebook wih the outputs of the given task.
+### [Results](https://github.com/Rishikesh-Jadhav/Robot-Learning/blob/main/Assignment1/RL_Assignment1.ipynb) : Contains the notebook wih the outputs of the given task.
 
 - **Implementation and Learnings from Project 1**:
   
