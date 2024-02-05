@@ -2,20 +2,17 @@
 This repository serves as a record of my academic experience in ENPM690 during the Spring of 2024. It includes my code submissions for projects and assignments. Each assignment is organized within its respective folder, complete with accompanying documentation and any necessary resources.
 
 ## 📚 Course Overview
-The course offers a deep dive into the cutting-edge realms of computer vision and high-level recognition tasks. This course is structured into five key modules, each addressing a crucial aspect of visual learning and recognition:
+This course offers a comprehensive exploration of the intersection between machine learning and robotics, aimed at enhancing the capabilities of robotic systems. The course is structured into several modules, each addressing fundamental concepts and advanced techniques in robot learning:
 
-1. **Background and Foundations:** Introduction to Data, covering topics like the massive 80 million tiny image dataset and the storage capacity of visual long-term memory. Data-driven methods in vision, including image restoration, scene completion, and geographic information estimation from images. Exploring ConvNets and architectures, with a focus on various important architectures and the inner workings of convolutional neural networks.
+1. **Foundations of Robot Learning:** Introduction to machine learning paradigms applicable to robotics, including Reinforcement Learning, Learning from Demonstration, and Robot Shaping. Discussion on the importance of adaptation and learning for autonomous robots operating in dynamic environments.
 
-2. **Core Tasks:** Foundational topics in Object Detection and Image Segmentation, including Histograms of Oriented Gradients and object detection with part-based models. Single-stage object detection techniques like OverFeat, SSD, and YOLO, as well as semantic segmentation methods. Multi-stage object detection and instance segmentation using approaches like Fast R-CNN, Faster R-CNN, and Mask R-CNN. Introduction to transformers for detection/segmentation. Analysis, diagnosis, and training strategies for object detectors.
+2. **Learning Techniques and Paradigms:** Examination of various machine learning paradigms such as CMAC, KNN, MLP, lazy learning, LWR, RBF, and deep networks. Exploration of how these techniques generate models that enable robots to perform tasks efficiently.
 
-4. **Additional Topics:** Introduction to other tasks like Human Pose Estimation. Guest lecture on Reinforcement Learning. Self-supervised Learning. Learned Compression techniques beyond images and video. Neural Architecture Search for efficient model design. Vision Techniques for Reinforcement Learning. Action Recognition methods. Attribute recognition. Context reasoning in object recognition.
+3. **Integration with Robotic Control:** Integration of machine learning techniques with traditional robotic control approaches such as motor schema, behavior-based, and direct and inverse methods. Emphasis on creating controllers capable of operating robots effectively in real-world environments.
 
-5. **Guest Lectures:** Guest lectures covering topics like self-supervised learning, learned compression, neural architecture search, vision techniques for reinforcement learning, action recognition, attributes, and context reasoning.
+4. **Advanced Applications:** Application of state-of-the-art machine learning techniques, including reinforcement learning, imitation learning, and deep networks, to extend the capabilities of robotic systems. Discussion on useful representations and model building techniques for nonstationary robotic systems.
 
-6. **Generative Models and More:** In-depth exploration of 3D Scene Understanding, Primitives, and Reasoning. Study of 3D object recognition, including 3D Scene Understanding, 3D object primitives, and reasoning. Generative Models for image and data generation. Miscellaneous topics related to visual data mining and discovery. Ethical considerations in computer vision.
-
-Throughout the course, we engaged with a wide range of research papers, lectures, and Projects, which providing us with a comprehensive understanding of advanced techniques in visual learning and recognition. The course covers foundational concepts, cutting-edge methods, and emerging trends in the field of computer vision and visual recognition.
-
+By the end of the course, it is expected for me to be able to design and implement machine learning solutions for robotics applications.
 
 ## 📄 Project List
 
